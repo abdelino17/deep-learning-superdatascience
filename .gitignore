@@ -1,0 +1,6 @@
+/.vscode
+/*/.ipynb_checkpoints/
+/*/dataset/
+/*/__pycache__/
+/*/ml-1m/
+/*/ml-100k/
